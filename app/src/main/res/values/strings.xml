@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoListApplication</string>
+    <string name="add_title">Add Title</string>
+    <string name="add_date">Add Date</string>
+    <string name="add_time">Add Time</string>
+    <string name="btn_add">ADD</string>
+</resources>
